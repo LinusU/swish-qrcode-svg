@@ -1,0 +1,25 @@
+{
+  "name": "swish-qrcode-svg",
+  "version": "0.0.0",
+  "keywords": [
+    "Code",
+    "generate",
+    "Payments",
+    "qr",
+    "QR",
+    "QRCode",
+    "Sweden",
+    "swish",
+    "Swish",
+    "SwishQR"
+  ],
+  "repository": "LinusU/swish-qrcode-svg",
+  "license": "MIT",
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "dependencies": {
+    "@qrcode/core": "^1.0.0-beta.2"
+  }
+}
